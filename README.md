@@ -1,4 +1,4 @@
-### Make NASDAQ Great Again
+### Ingenio et labore
 
 <img src="https://github-readme-stats.vercel.app/api?username=4Z0N4S&count_private=true&show_icons=true&hide=contribs,prs&theme=aura&include_all_commits=true" alt="github-readme-stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Z0N4S&layout=compact&theme=aura&langs_count=6"/>
 
